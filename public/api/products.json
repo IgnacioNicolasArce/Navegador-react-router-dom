@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Smart TV 42\" Sensei Android TDS2442FICH",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.gi4B0Ua7o8Co03QNpig00wHaHa&w=200&h=200&c=7",
+    "real_price": 419999,
+    "final_price": 294999,
+    "discount": 30,
+    "quantity": 10
+  },
+  {
+    "id": 2,
+    "title": "Heladera No Frost Samsung 328L Inox",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.NKBS0DAZ5nahfoj1QFTqQQHaHa&w=200&h=200&c=7",
+    "real_price": 759999,
+    "final_price": 607999,
+    "discount": 20,
+    "quantity": 5
+  },
+  {
+    "id": 3,
+    "title": "Notebook HP 15.6\" Ryzen 5 8GB 512GB SSD",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.fGVGpPA9JgNwjOU3zo9GegHaHa&w=200&h=200&c=7",
+    "real_price": 839999,
+    "final_price": 671999,
+    "discount": 20,
+    "quantity": 8
+  },
+  {
+    "id": 4,
+    "title": "Lavarropas Drean Next 6.06 ECO 6kg",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.37fAUZ1-x8rvsWPqtCneugHaHa&w=200&h=200&c=7",
+    "real_price": 499999,
+    "final_price": 374999,
+    "discount": 25,
+    "quantity": 7
+  },
+  {
+    "id": 5,
+    "title": "Aire Acondicionado Split Philco 3500W Frío/Calor",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.TzGodVGPC0KzBeBs1GKPYAHaHa&w=200&h=200&c=7",
+    "real_price": 699999,
+    "final_price": 559999,
+    "discount": 20,
+    "quantity": 12
+  },
+  {
+    "id": 6,
+    "title": "Celular Samsung Galaxy A54 5G 256GB",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.VbiM7PelT_DjwlnoOyPOhgHaHa&w=200&h=200&c=7",
+    "real_price": 529999,
+    "final_price": 423999,
+    "discount": 20,
+    "quantity": 15
+  }
+]
